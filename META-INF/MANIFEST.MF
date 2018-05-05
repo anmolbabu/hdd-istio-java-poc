@@ -1,0 +1,1 @@
+Main-Class: org.osio.hdd.istio.com.App
